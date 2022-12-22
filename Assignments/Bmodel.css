@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.search {
+    width: 100px;
+    height: 25px;
+    border: 2px solid rgb(9, 201, 201);
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(9, 201, 201)
+}
+
+.plus {
+    width: 25px;
+    height: 25px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(9, 201, 201);
+}
+
+.create {
+    display: inline;
+    justify-content: center;
+    width: 150px;
+    height: 25px;
+    border: 2px solid black;
+    background-color: rgb(0, 66, 128);
+    color: white;
+    margin: 20px;
+}
